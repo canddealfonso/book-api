@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "publisher": "Bloomsbury",
+      "year": 1997,
+      "genre": "Fantasy"
+    },
+    {
+      "id": "2",
+      "title": "A Game of Thrones",
+      "author": "George R. R. Martin",
+      "publisher": "Bantam Books",
+      "year": 1996,
+      "genre": "Fantasy"
+    },
+    {
+      "id": "3",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "publisher": "Editorial Sudamericana",
+      "year": 1967,
+      "genre": "Magical Realism"
+    }
+  ]
+  

@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "name": "Bloomsbury",
+      "country": "United Kingdom",
+      "books": [
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Chamber of Secrets"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Bantam Books",
+      "country": "United States",
+      "books": [
+        "A Game of Thrones",
+        "A Clash of Kings"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Editorial Sudamericana",
+      "country": "Argentina",
+      "books": [
+        "One Hundred Years of Solitude",
+        "Love in the Time of Cholera"
+      ]
+    }
+  ]
+  

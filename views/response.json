@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "message": "Request completed successfully",
+    "data": {
+      "authors": [
+        {
+          "id": "1",
+          "name": "J.K. Rowling",
+          "nationality": "British",
+          "books": [
+            "Harry Potter and the Philosopher's Stone",
+            "Harry Potter and the Chamber of Secrets"
+          ]
+        },
+        {
+          "id": "2",
+          "name": "George R. R. Martin",
+          "nationality": "American",
+          "books": [
+            "A Game of Thrones",
+            "A Clash of Kings"
+          ]
+        }
+      ]
+    }
+  }
